@@ -13,7 +13,7 @@ It will configured and pull the images and create the containers in docker Deskt
 Next you must connect docker desktop before running this command:<br/>
 ==> docker-compose up<br/>
 
-<img src="" alt="error"/>
+<img src="kafka-images/Screenshot 2024-08-12 182131.png" alt="error"/>
 
 You can see the running containers on docker: command is:<br/>
 ==> docker ps (actively running)<br/>
