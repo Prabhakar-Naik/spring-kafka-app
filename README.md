@@ -5,7 +5,7 @@ The "spring-kafka-app" project is a Spring Boot application that demonstrates th
 Kafka application using spring boot
 
 # Using Docker we can run the Kafka: to configure below setup in docker compose.yml in your project<br/>
-<img src="" alt="error"/>
+<img src="kafka-images/Screenshot 2024-08-12 180659.png" alt="error"/>
 
 It will configured and pull the images and create the containers in docker Desktop<br/>
 
